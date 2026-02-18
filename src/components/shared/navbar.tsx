@@ -36,7 +36,7 @@ export function Navbar() {
     >
       <nav className="container mx-auto flex items-center justify-between px-4 h-16">
         <Link href="/" className="text-xl font-bold font-mono text-gradient">
-          &lt;AE /&gt;
+          Automation Expert
         </Link>
 
         <div className="hidden md:flex items-center gap-6">

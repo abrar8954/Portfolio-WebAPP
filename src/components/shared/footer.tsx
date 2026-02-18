@@ -23,7 +23,7 @@ export function Footer({ github, linkedin, upwork, email }: FooterProps = {}) {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div>
             <Link href="/" className="text-xl font-bold font-mono text-gradient">
-              &lt;AE /&gt;
+              Automation Expert
             </Link>
             <p className="mt-3 text-sm text-muted-foreground max-w-xs">
               Automation Expert specializing in RPA, web automation, and process
