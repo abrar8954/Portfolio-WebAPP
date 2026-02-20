@@ -34,7 +34,7 @@ export function AdminSidebar() {
     <aside className="w-64 min-h-screen border-r border-border bg-card flex flex-col">
       <div className="p-6 border-b border-border">
         <Link href="/" className="text-xl font-bold font-mono text-gradient">
-          Automation Expert
+          &lt;Automation Expert /&gt;
         </Link>
         <p className="text-xs text-muted-foreground mt-1">Admin Dashboard</p>
       </div>
